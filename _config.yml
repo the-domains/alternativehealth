@@ -1,0 +1,28 @@
+name: alternativehealth
+favicon: null
+layout_spectrum: 0.06328966631554067
+typography_spectrum: 0.9207657554652542
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3401846196502447
+  lightness: 0.6886793717276305
+  saturation: 0.9025187063962221
+  rhythmicContrast: 0.4735502360854298
+purpose: []
